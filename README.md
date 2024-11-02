@@ -1,16 +1,20 @@
 # CoRec: An Easy Approach for Coordination Recognition
 
-## Paper Link: 
+## Paper Link
 
 https://aclanthology.org/2023.emnlp-main.934.pdf
 
-## Resources:
+## Resources
 
 Data links can be found in Experiment section of the paper.
 
 Download bert_base_uncased from https://huggingface.co/bert-base-uncased
 
-## Play with Examples
+## Environments SetUp
+
+pip install -r requirements.txt
+
+## Start Playing with a Demo
 
 16 PubMed abstracts are newly included to help readers play with the CoRec model! 
 
