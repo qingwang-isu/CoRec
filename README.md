@@ -1,4 +1,3 @@
-
 # CoRec: An Easy Approach for Coordination Recognition
 
 ## Paper Link: 
@@ -26,3 +25,4 @@ Firstly, run predict_PubMed.py in coordinator_identifier/src/ to predict the coo
 Then you can run predict_PubMed.py in src/ to predict the conjuncts for each target coordinator.
 
 If you want to generate the final splitted sentences, you can further run sentence_splitter_PubMed.py
+
